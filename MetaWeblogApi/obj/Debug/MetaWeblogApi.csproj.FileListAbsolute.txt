@@ -1,0 +1,7 @@
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\obj\Debug\MetaWeblogApi.csproj.CoreCompileInputs.cache
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\bin\Debug\MetaWeblogApi.dll
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\bin\Debug\MetaWeblogApi.pdb
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\bin\Debug\CookComputing.XmlRpcV2.dll
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\obj\Debug\MetaWeblogApi.csproj.CopyComplete
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\obj\Debug\MetaWeblogApi.dll
+c:\users\xuchengdong\source\repos\MetaWeblogApi\MetaWeblogApi\obj\Debug\MetaWeblogApi.pdb
